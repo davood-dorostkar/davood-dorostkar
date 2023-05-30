@@ -1,16 +1,17 @@
 👋 Hi, I’m davood-dorostkar.
 
-I love intelligent systems. Why? I believe that humans have done the 3 D's enough already: 'Dull, Dangerous, Dirty' tasks; intelligent systems can tackle those tasks and disburden people of doing hard and tedious jobs. That intelligent system might be a robot, a mechatronics device, an autonomous car, an autonomous mobile robot, or a web software service, to name a few.
+I am passionate about intelligent systems because I believe they can relieve humans of the 3 D's: "Dull, Dangerous, and Dirty" tasks. Whether it's a robot, mechatronics device, autonomous car, mobile robot, or web software service, intelligent systems have the potential to tackle hard and tedious jobs and improve our lives.
 
-I think of intelligent agents as 'Systems' comprised of different subsystems working together in a logical way. I am really interested in understanding the interconnection of subsystems; hence, it paved the way for me to deliberately dive into these topics to grow my proficiency in the whole system:
+To me, intelligent systems are more than just machines. They are complex systems comprised of different subsystems working together in a logical manner. I am fascinated by the interconnection of these subsystems and have made a deliberate effort to deepen my understanding of the entire system. This has allowed me to grow my proficiency and develop a holistic perspective on the topic.
+
+### Software:
+- Developed both computer software and embedded software based on C, C++, Python, and JavaScript. 
+- fascinated by Object-Oriented Programming, Clean Coding, TDD, Design Patterns
+- Worked for 2 years making full stack web software with Django and VanillaJS; utilized AJAX technology to develop RESTful APIs and responsive web applications.
 
 ### Hardware & Electronics:
 - 4 years of experience implementing electronics and embedded systems, developing solutions with both embedded boards and microcontrollers.
 - Experienced in hardware implementation and have working knowledge in a wide range of sensors and embedded systems.
-
-### Software:
-- Developed both computer software and embedded software based on C, C++, Python, and JavaScript. 
-- Worked for 2 years making full stack web software with Django and VanillaJS; utilized AJAX technology to develop RESTful APIs and responsive web applications.
 
 ### Dynamics & Robotics:
 - Coded and simulated manipulators and other robotic systems.
@@ -21,16 +22,17 @@ I think of intelligent agents as 'Systems' comprised of different subsystems wor
 - Also Familiar with computer vision, machine learning, and CI/CD.
 
 ### My Skills: 
-Robotics,
-Control,
-ROS,
-Embedded systems,
 C/C++,
 Python,
 JavaScript,
 Django,
 Docker,
-Git
+Git,
+Robotics,
+Control,
+ROS,
+Embedded systems
+
 
 🌱 I’m currently learning continous integration practices with CircleCI.
 <!---
