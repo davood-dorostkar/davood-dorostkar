@@ -1,4 +1,4 @@
-👋 Hi, I’m davood-dorostkar.
+👋 Hi, I’m Davood Dorostkar.
 
 I am passionate about intelligent systems because I believe they can relieve humans of the 3 D's: "Dull, Dangerous, and Dirty" tasks. Whether it's a robot, mechatronics device, autonomous car, mobile robot, or web software service, intelligent systems have the potential to tackle hard and tedious jobs and improve our lives.
 
