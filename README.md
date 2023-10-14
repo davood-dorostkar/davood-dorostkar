@@ -22,22 +22,17 @@ To me, intelligent systems are more than just machines. They are complex systems
 - Also Familiar with computer vision, machine learning, and CI/CD.
 
 ### My Skills: 
-C/C++,
-Python,
-JavaScript,
-Django,
-Docker,
-Git,
-Robotics,
-Control,
-ROS,
-Embedded systems
-
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=blue) 
 ![](https://img.shields.io/badge/ROS-white?style=for-the-badge&logo=ROS&logoColor=191970) 
+![](https://img.shields.io/badge/robotics-0047AB?style=for-the-badge) 
+![](https://img.shields.io/badge/control-FF007F?style=for-the-badge) 
+![](https://img.shields.io/badge/embedded%20systems-59A96A?style=for-the-badge) 
+
 ![](https://img.shields.io/badge/Docker-E5E4E2?style=for-the-badge&logo=docker&logoColor=0096FF) 
 ![](https://img.shields.io/badge/git-B2BEB5?style=for-the-badge&logo=git&logoColor=FF4433) 
+![](https://img.shields.io/badge/javascript-353935?style=for-the-badge&logo=javascript&logoColor=FFD700) 
+![](https://img.shields.io/badge/django-097969?style=for-the-badge&logo=django&logoColor=white) 
 
 🌱 I’m currently learning continous integration practices with CircleCI.
 <!---
