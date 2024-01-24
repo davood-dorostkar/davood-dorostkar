@@ -10,12 +10,12 @@ To me, intelligent systems are more than just machines. They are complex systems
 - Worked for 2 years making full stack web software with Django and VanillaJS; utilized AJAX technology to develop RESTful APIs and responsive web applications.
 
 ### Hardware & Electronics:
-- 4 years of experience implementing electronics and embedded systems, developing solutions with both embedded boards and microcontrollers.
+- 5 years of experience implementing electronics and embedded systems, developing solutions with both embedded boards and microcontrollers.
 - Experienced in hardware implementation and have working knowledge in a wide range of sensors and embedded systems.
 
 ### Dynamics & Robotics:
 - Coded and simulated manipulators and other robotic systems.
-- A top scorer in the 'Advanced Dynamics', 'Advanced robot control', and 'ROS & Gazebo' courses.
+- A top scorer in the **Advanced Dynamics**, **Advanced robot control**, and **ROS & Gazebo** courses.
 
 ### Other:
 - Worked for 1 year within an agile and self-organized team focused on fast delivery. I was captivated by Scrum and felt like I have found what I really needed.
